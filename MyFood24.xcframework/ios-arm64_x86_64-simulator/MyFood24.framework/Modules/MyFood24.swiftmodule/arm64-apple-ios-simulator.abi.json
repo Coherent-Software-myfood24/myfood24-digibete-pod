@@ -35,7 +35,6 @@
             "mangledName": "$s8MyFood246MainVCC11viewDidLoadyyF",
             "moduleName": "MyFood24",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "viewDidLoad",
             "declAttributes": [
               "Dynamic",
@@ -62,7 +61,6 @@
             "mangledName": "$s8MyFood246MainVCC23didReceiveMemoryWarningyyF",
             "moduleName": "MyFood24",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "didReceiveMemoryWarning",
             "declAttributes": [
               "Dynamic",
@@ -174,7 +172,6 @@
         "usr": "c:@M@MyFood24@objc(cs)MainVC",
         "mangledName": "$s8MyFood246MainVCC",
         "moduleName": "MyFood24",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -255,129 +252,6 @@
         "printedName": "MainViewController",
         "children": [
           {
-            "kind": "Var",
-            "name": "onDismissCallback",
-            "printedName": "onDismissCallback",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "() -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8MyFood2418MainViewControllerC17onDismissCallbackyycvp",
-            "mangledName": "$s8MyFood2418MainViewControllerC17onDismissCallbackyycvp",
-            "moduleName": "MyFood24",
-            "isOpen": true,
-            "declAttributes": [
-              "Custom",
-              "HasInitialValue",
-              "HasStorage"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8MyFood2418MainViewControllerC17onDismissCallbackyycvg",
-                "mangledName": "$s8MyFood2418MainViewControllerC17onDismissCallbackyycvg",
-                "moduleName": "MyFood24",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8MyFood2418MainViewControllerC17onDismissCallbackyycvs",
-                "mangledName": "$s8MyFood2418MainViewControllerC17onDismissCallbackyycvs",
-                "moduleName": "MyFood24",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8MyFood2418MainViewControllerC17onDismissCallbackyycvM",
-                "mangledName": "$s8MyFood2418MainViewControllerC17onDismissCallbackyycvM",
-                "moduleName": "MyFood24",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
             "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
@@ -393,7 +267,6 @@
             "mangledName": "$s8MyFood2418MainViewControllerC11viewDidLoadyyF",
             "moduleName": "MyFood24",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "viewDidLoad",
             "declAttributes": [
               "Dynamic",
@@ -401,34 +274,6 @@
               "Custom",
               "Override",
               "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "onClose",
-            "printedName": "onClose(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "ProtocolComposition",
-                "printedName": "Any"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@MyFood24@objc(cs)MainViewController(im)onClose:",
-            "mangledName": "$s8MyFood2418MainViewControllerC7onCloseyyypF",
-            "moduleName": "MyFood24",
-            "isOpen": true,
-            "declAttributes": [
-              "Custom",
-              "IBAction",
-              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -533,7 +378,6 @@
         "usr": "c:@M@MyFood24@objc(cs)MainViewController",
         "mangledName": "$s8MyFood2418MainViewControllerC",
         "moduleName": "MyFood24",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -698,7 +542,6 @@
             "usr": "s:So6UIViewC8MyFood24E15addCornerRadiusyy14CoreFoundation7CGFloatVF",
             "mangledName": "$sSo6UIViewC8MyFood24E15addCornerRadiusyy12CoreGraphics7CGFloatVF",
             "moduleName": "MyFood24",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl"
@@ -735,7 +578,6 @@
             "usr": "s:So6UIViewC8MyFood24E13addBorderLine5width5colory14CoreFoundation7CGFloatV_So7UIColorCtF",
             "mangledName": "$sSo6UIViewC8MyFood24E13addBorderLine5width5colory12CoreGraphics7CGFloatV_So7UIColorCtF",
             "moduleName": "MyFood24",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl"
@@ -758,7 +600,6 @@
             "usr": "s:So6UIViewC8MyFood24E11makeRoundedyyF",
             "mangledName": "$sSo6UIViewC8MyFood24E11makeRoundedyyF",
             "moduleName": "MyFood24",
-            "isOpen": true,
             "declAttributes": [
               "Custom",
               "AccessControl"
@@ -816,7 +657,6 @@
             "usr": "c:@CM@MyFood24@@objc(cs)UIView(im)addShadowWithCornerRadius:shadowColor:shadowOffset:shadowOpacity:shadowRadius:",
             "mangledName": "$sSo6UIViewC8MyFood24E9addShadow12cornerRadius11shadowColor0H6Offset0H7Opacity0hG0y12CoreGraphics7CGFloatV_So7UIColorCSo6CGSizeVSfALtF",
             "moduleName": "MyFood24",
-            "isOpen": true,
             "objc_name": "addShadowWithCornerRadius:shadowColor:shadowOffset:shadowOpacity:shadowRadius:",
             "declAttributes": [
               "Dynamic",
