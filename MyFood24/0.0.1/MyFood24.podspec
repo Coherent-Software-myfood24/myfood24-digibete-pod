@@ -91,9 +91,9 @@ Pod::Spec.new do |spec|
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
   #
-  spec.public_header_files = "MyFood24.framework/Headers/*.h"
-  spec.source_files = "MyFood24.framework/Headers/*.h"
-  spec.vendored_frameworks = "MyFood24.framework"
+  # spec.public_header_files = "MyFood24.xcframework/**/*.h"
+  # spec.source_files = "MyFood24.xcframework/**/*.h"
+  spec.vendored_frameworks = 'MyFood24.framework'
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
 
