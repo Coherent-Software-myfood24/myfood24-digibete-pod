@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name             = 'MyFood24'
-  spec.version          = '0.0.1'
+  spec.version          = '0.0.2'
   spec.summary          = 'The MyFood24 Library for integration with other systems'
 
   # This description is used to generate tags and improve search results.
@@ -93,7 +93,7 @@ Pod::Spec.new do |spec|
   #
   # spec.public_header_files = "MyFood24.xcframework/**/*.h"
   # spec.source_files = "MyFood24.xcframework/**/*.h"
-  spec.vendored_frameworks = "MyFood24.xcframework"
+  spec.vendored_frameworks = 'MyFood24.xcframework' # For some reason it will find it if it
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
 
