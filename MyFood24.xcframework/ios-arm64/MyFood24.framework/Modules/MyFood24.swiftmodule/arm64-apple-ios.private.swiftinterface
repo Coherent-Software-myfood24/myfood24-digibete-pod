@@ -21,7 +21,7 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-public func initMyFood24(onDismissCallback: @escaping () -> Swift.Void) -> MyFood24.MainViewController
+public func initMyFood24(apiKey: Swift.String, onDismissCallback: @escaping () -> Swift.Void) -> MyFood24.MainViewController
 public func divide() -> Swift.Int
 extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func addCornerRadius(_ radius: CoreFoundation.CGFloat = 16)

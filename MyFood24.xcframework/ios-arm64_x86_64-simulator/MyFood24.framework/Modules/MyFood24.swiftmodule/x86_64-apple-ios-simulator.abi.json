@@ -452,13 +452,19 @@
       {
         "kind": "Function",
         "name": "initMyFood24",
-        "printedName": "initMyFood24(onDismissCallback:)",
+        "printedName": "initMyFood24(apiKey:onDismissCallback:)",
         "children": [
           {
             "kind": "TypeNominal",
             "name": "MainViewController",
             "printedName": "MyFood24.MainViewController",
             "usr": "c:@M@MyFood24@objc(cs)MainViewController"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
           },
           {
             "kind": "TypeFunc",
@@ -479,8 +485,8 @@
           }
         ],
         "declKind": "Func",
-        "usr": "s:8MyFood2404initaB017onDismissCallbackAA18MainViewControllerCyyc_tF",
-        "mangledName": "$s8MyFood2404initaB017onDismissCallbackAA18MainViewControllerCyyc_tF",
+        "usr": "s:8MyFood2404initaB06apiKey17onDismissCallbackAA18MainViewControllerCSS_yyctF",
+        "mangledName": "$s8MyFood2404initaB06apiKey17onDismissCallbackAA18MainViewControllerCSS_yyctF",
         "moduleName": "MyFood24",
         "declAttributes": [
           "AccessControl"

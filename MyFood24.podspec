@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name             = 'MyFood24'
-  spec.version          = '0.0.2'
+  spec.version          = '0.0.3'
   spec.summary          = 'The MyFood24 Library for integration with other systems'
 
   # This description is used to generate tags and improve search results.
