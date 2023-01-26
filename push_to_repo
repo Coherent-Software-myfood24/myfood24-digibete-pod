@@ -1,0 +1,26 @@
+#!/bin/bash
+
+TEMPLATE_FILE_NAME="MyFood24.podtemplate"
+OUT_FILE_NAME="MyFood24.podspec"
+
+# Increment the build version and save it into build.properties
+. build.properties
+
+# BUILD_VERSION=$((BUILD_VERSION+1))
+
+echo "BASE_VERSION=${BASE_VERSION}" > build.properties
+echo "BUILD_VERSION=${BUILD_VERSION}" >> build.properties
+
+# Load the template podspec and replace version
+TEMPLATE=$(cat "$TEMPLATE_FILE_NAME" | sed "s/\[\[VERSION\]\]/${BASE_VERSION}\.${BUILD_VERSION}/g")
+
+# echo "$TEMPLATE" > "$OUT_FILE_NAME"
+
+git add MyFood24.xcframework
+git add MyFood24.podspec
+git status
+
+
+# Actually deploy the update
+# git tag -a ${BASE_VERSION}.${BUILD_VERSION} -m "Version ${BASE_VERSION}.${BUILD_VERSION}"
+# git push origin --tags
