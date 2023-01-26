@@ -16,11 +16,16 @@ TEMPLATE=$(cat "$TEMPLATE_FILE_NAME" | sed "s/\[\[VERSION\]\]/${BASE_VERSION}\.$
 
 # echo "$TEMPLATE" > "$OUT_FILE_NAME"
 
+
+# Add the changes to git
 git add MyFood24.xcframework
 git add MyFood24.podspec
-git status
+git commit -m "Automatic deployment for version ${BASE_VERSION}.${BUILD_VERSION}"
+git push origin
 
+# upload the new tags
+git tag -a ${BASE_VERSION}.${BUILD_VERSION} -m "Version ${BASE_VERSION}.${BUILD_VERSION}"
+git push origin --tags
 
 # Actually deploy the update
-# git tag -a ${BASE_VERSION}.${BUILD_VERSION} -m "Version ${BASE_VERSION}.${BUILD_VERSION}"
-# git push origin --tags
+pod repo push myfood24-framework-pod MyFood24.podspec --allow-warnings
