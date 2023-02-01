@@ -609,6 +609,80 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "View",
+        "printedName": "View",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "addBorder",
+            "printedName": "addBorder(_:width:cornerRadius:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_1_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SwiftUI4ViewP8MyFood24E9addBorder_5width12cornerRadiusQrqd___14CoreFoundation7CGFloatVAJtAA10ShapeStyleRd__lF",
+            "mangledName": "$s7SwiftUI4ViewP8MyFood24E9addBorder_5width12cornerRadiusQrqd___12CoreGraphics7CGFloatVAJtAA10ShapeStyleRd__lF",
+            "moduleName": "MyFood24",
+            "genericSig": "<τ_0_0, τ_1_0 where τ_0_0 : SwiftUI.View, τ_1_0 : SwiftUI.ShapeStyle>",
+            "sugared_genericSig": "<Self, S where Self : SwiftUI.View, S : SwiftUI.ShapeStyle>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7SwiftUI4ViewP",
+        "mangledName": "$s7SwiftUI4ViewP",
+        "moduleName": "SwiftUI",
+        "genericSig": "<τ_0_0.Body : SwiftUI.View>",
+        "sugared_genericSig": "<Self.Body : SwiftUI.View>",
+        "intro_Macosx": "10.15",
+        "intro_iOS": "13.0",
+        "intro_tvOS": "13.0",
+        "intro_watchOS": "6.0",
+        "declAttributes": [
+          "TypeEraser",
+          "Available",
+          "Available",
+          "Available",
+          "Available"
+        ],
+        "isExternal": true
+      },
+      {
+        "kind": "TypeDecl",
         "name": "Color",
         "printedName": "Color",
         "children": [
@@ -629,14 +703,7 @@
             "mangledName": "$s7SwiftUI5ColorV8MyFood24E9titleTextACvpZ",
             "moduleName": "MyFood24",
             "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
             "isFromExtension": true,
-            "isLet": true,
-            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -655,7 +722,6 @@
                 "mangledName": "$s7SwiftUI5ColorV8MyFood24E9titleTextACvgZ",
                 "moduleName": "MyFood24",
                 "static": true,
-                "implicit": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -678,14 +744,7 @@
             "mangledName": "$s7SwiftUI5ColorV8MyFood24E11headingTextACvpZ",
             "moduleName": "MyFood24",
             "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
             "isFromExtension": true,
-            "isLet": true,
-            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -704,7 +763,6 @@
                 "mangledName": "$s7SwiftUI5ColorV8MyFood24E11headingTextACvgZ",
                 "moduleName": "MyFood24",
                 "static": true,
-                "implicit": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -727,14 +785,7 @@
             "mangledName": "$s7SwiftUI5ColorV8MyFood24E06detailC0ACvpZ",
             "moduleName": "MyFood24",
             "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
             "isFromExtension": true,
-            "isLet": true,
-            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -753,7 +804,6 @@
                 "mangledName": "$s7SwiftUI5ColorV8MyFood24E06detailC0ACvgZ",
                 "moduleName": "MyFood24",
                 "static": true,
-                "implicit": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -776,14 +826,7 @@
             "mangledName": "$s7SwiftUI5ColorV8MyFood24E9lightGrayACvpZ",
             "moduleName": "MyFood24",
             "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
             "isFromExtension": true,
-            "isLet": true,
-            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -802,7 +845,6 @@
                 "mangledName": "$s7SwiftUI5ColorV8MyFood24E9lightGrayACvgZ",
                 "moduleName": "MyFood24",
                 "static": true,
-                "implicit": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -947,7 +989,8 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "isFromExtension": true,
             "isLet": true,
@@ -1283,80 +1326,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "View",
-        "printedName": "View",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "addBorder",
-            "printedName": "addBorder(_:width:cornerRadius:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "OpaqueTypeArchetype",
-                "printedName": "some SwiftUI.View",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "View",
-                    "printedName": "SwiftUI.View",
-                    "usr": "s:7SwiftUI4ViewP"
-                  }
-                ]
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GenericTypeParam",
-                "printedName": "τ_1_0"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "hasDefaultArg": true,
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SwiftUI4ViewP8MyFood24E9addBorder_5width12cornerRadiusQrqd___14CoreFoundation7CGFloatVAJtAA10ShapeStyleRd__lF",
-            "mangledName": "$s7SwiftUI4ViewP8MyFood24E9addBorder_5width12cornerRadiusQrqd___12CoreGraphics7CGFloatVAJtAA10ShapeStyleRd__lF",
-            "moduleName": "MyFood24",
-            "genericSig": "<τ_0_0, τ_1_0 where τ_0_0 : SwiftUI.View, τ_1_0 : SwiftUI.ShapeStyle>",
-            "sugared_genericSig": "<Self, S where Self : SwiftUI.View, S : SwiftUI.ShapeStyle>",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:7SwiftUI4ViewP",
-        "mangledName": "$s7SwiftUI4ViewP",
-        "moduleName": "SwiftUI",
-        "genericSig": "<τ_0_0.Body : SwiftUI.View>",
-        "sugared_genericSig": "<Self.Body : SwiftUI.View>",
-        "intro_Macosx": "10.15",
-        "intro_iOS": "13.0",
-        "intro_tvOS": "13.0",
-        "intro_watchOS": "6.0",
-        "declAttributes": [
-          "TypeEraser",
-          "Available",
-          "Available",
-          "Available",
-          "Available"
-        ],
-        "isExternal": true
-      },
-      {
-        "kind": "TypeDecl",
         "name": "UIView",
         "printedName": "UIView",
         "children": [
@@ -1614,66 +1583,38 @@
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 854,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 393,
+      "offset": 2569,
       "length": 11,
       "value": "\"TitleText\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 473,
-      "length": 13,
-      "value": "\"HeadingText\""
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
-      "kind": "StringLiteral",
-      "offset": 555,
-      "length": 14,
-      "value": "\"DetailColor1\""
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
-      "kind": "StringLiteral",
-      "offset": 637,
-      "length": 11,
-      "value": "\"lightGray\""
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
-      "kind": "StringLiteral",
-      "offset": 747,
-      "length": 11,
-      "value": "\"TitleText\""
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
-      "kind": "StringLiteral",
-      "offset": 838,
+      "offset": 2715,
       "length": 13,
       "value": "\"headingText\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 931,
+      "offset": 2863,
       "length": 14,
       "value": "\"DetailColor1\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 1023,
+      "offset": 3010,
       "length": 11,
       "value": "\"lightGray\""
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ClassExtensions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1584,
-      "length": 1,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
