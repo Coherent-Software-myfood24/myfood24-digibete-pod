@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name             = 'MyFood24'
-  spec.version          = "1.0.26"
+  spec.version          = "1.0.27"
   spec.summary          = 'The MyFood24 Library for integration with other systems'
 
   # This description is used to generate tags and improve search results.
@@ -141,10 +141,10 @@ Pod::Spec.new do |spec|
   spec.dependency 'Alamofire', '~> 5.2'
   spec.dependency 'KeychainAccess'
   spec.dependency 'SwiftyJSON', '~> 4.0'
-  spec.dependency 'Charts', '~> 4.1.0'
-  spec.dependency 'ImageScrollView'
+  # spec.dependency 'Charts', '~> 4.1.0'
+  # spec.dependency 'ImageScrollView'
   # s.dependency 'GoogleAnalytics'
-  spec.dependency 'SwiftyOnboard', '~> 1.4.0'
-  spec.dependency 'Toast-Swift', '~> 5.0.1'
+  # spec.dependency 'SwiftyOnboard', '~> 1.4.0'
+  # spec.dependency 'Toast-Swift', '~> 5.0.1'
 
 end
