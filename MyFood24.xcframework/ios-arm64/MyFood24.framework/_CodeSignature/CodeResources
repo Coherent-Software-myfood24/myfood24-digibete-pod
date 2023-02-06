@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		kEx+PbnEmHBfX/3xYnBuHFjiE6E=
+		6swXAiMvq5y0vhxEv/6hNkK8PYM=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fZE8DqmJjYcueU6Eak1ODIi4QS8=
+		K0Ti5hRQRXpeSgCoK0M+2ZLoT7o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>MyFood24.bundle/Assets.car</key>
 		<data>
-		YzbxIwMpwoDIXu05zziAA/jYm64=
+		n8+71GMHGe4/zlbqz0MQv5/SNJA=
 		</data>
 		<key>MyFood24.bundle/Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		9lEwczFxnLJYMDVphPPX+OYpurI=
+		MLSUgyQZxUbNMKHTOdKEvuuyOY8=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -82,15 +82,15 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		tnDcT33Z3yb4VBoSOo7YR7wkPP0=
+		bj8JgGDoSkq3T6yN2KiUZ6UGXvc=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		+hAGi+GgxKZQeXL6un0xNLN/tvc=
+		zLkPHggnD60Oei5ESEsEmoPRvPQ=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		mdocgyEhZFUtyleNctaeFzq2j2M=
+		sJNkbc/eB6qKvQ021ZkgsCerYSU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bHs/lAZu+b6f877w7V9Ekm8VMK3kjiXWfRluZmUb5uQ=
+			xBRjF3GsSljBI/a/Io0Z+IKAVz2OAs1I/kukkTkRnXQ=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G1RWqLXx8tGR6mM5KeS2PLSyiYTAZ1Rt0Y9W5Swe7Nk=
+			jY5yntbgH5dAffnMHnPf1zjbYxdaSy3In42wPRWMx+4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -162,7 +162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yeVj1tbp6rKbwW/Oq1J4nZYe7/YL7zxrqf9OMYe+8UE=
+			Pp/fCMZAWuBQT7MvBraPaZIw+/T0k1KvbuwUvfOvyVw=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/Info.plist</key>
@@ -211,7 +211,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o09rCxkBoUmTcJf1Pph8JjmH450FYs8OJ/RGU96pvpw=
+			eWbxez+fJH0cT76lrb0XKjBJcZ43S4MC+fRf/GJb13E=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
@@ -225,21 +225,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bycYOsj7J4BxzN6qmpfxSTs8yW/ZR8/yep3qpsj3aMI=
+			NwBHDQRIlxG5Teo8S2Q1Uu6opUv6lv1khqgY5E1QGG4=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IW/ixmpjbbBKHNUmVnlQVXmGVIeez9QaQNlY1jNYhtI=
+			DfFmCKCM18/SDtm/b0jXDp4g3lPQRoVQ8IwiDGSfZ3o=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cb9JD2uLf1GpjUPRrDzc42v6my1e9P2hFreOvhAehnQ=
+			7S2dslEcg/t3DaPmgcQwFYjibLiUnudyMN+jfssM09k=
 			</data>
 		</dict>
 	</dict>
