@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		YzbxIwMpwoDIXu05zziAA/jYm64=
+		n8+71GMHGe4/zlbqz0MQv5/SNJA=
 		</data>
 		<key>Headers/MyFood24-Swift.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>MyFood24.bundle/Assets.car</key>
 		<data>
-		n8+71GMHGe4/zlbqz0MQv5/SNJA=
+		YzbxIwMpwoDIXu05zziAA/jYm64=
 		</data>
 		<key>MyFood24.bundle/Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		MLSUgyQZxUbNMKHTOdKEvuuyOY8=
+		9lEwczFxnLJYMDVphPPX+OYpurI=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -82,15 +82,15 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		bj8JgGDoSkq3T6yN2KiUZ6UGXvc=
+		tnDcT33Z3yb4VBoSOo7YR7wkPP0=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		zLkPHggnD60Oei5ESEsEmoPRvPQ=
+		+hAGi+GgxKZQeXL6un0xNLN/tvc=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		sJNkbc/eB6qKvQ021ZkgsCerYSU=
+		2sqF0BloAgHBY3R5TB5Cs1Gqp8M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yeVj1tbp6rKbwW/Oq1J4nZYe7/YL7zxrqf9OMYe+8UE=
+			Pp/fCMZAWuBQT7MvBraPaZIw+/T0k1KvbuwUvfOvyVw=
 			</data>
 		</dict>
 		<key>Headers/MyFood24-Swift.h</key>
@@ -162,7 +162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pp/fCMZAWuBQT7MvBraPaZIw+/T0k1KvbuwUvfOvyVw=
+			yeVj1tbp6rKbwW/Oq1J4nZYe7/YL7zxrqf9OMYe+8UE=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/Info.plist</key>
@@ -211,7 +211,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWbxez+fJH0cT76lrb0XKjBJcZ43S4MC+fRf/GJb13E=
+			o09rCxkBoUmTcJf1Pph8JjmH450FYs8OJ/RGU96pvpw=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
@@ -225,21 +225,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NwBHDQRIlxG5Teo8S2Q1Uu6opUv6lv1khqgY5E1QGG4=
+			bycYOsj7J4BxzN6qmpfxSTs8yW/ZR8/yep3qpsj3aMI=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfFmCKCM18/SDtm/b0jXDp4g3lPQRoVQ8IwiDGSfZ3o=
+			IW/ixmpjbbBKHNUmVnlQVXmGVIeez9QaQNlY1jNYhtI=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7S2dslEcg/t3DaPmgcQwFYjibLiUnudyMN+jfssM09k=
+			Ya6Ea3JKlE7dFDn7Y/+ct43v9M6ftya6xdgRLHbmnyM=
 			</data>
 		</dict>
 	</dict>
