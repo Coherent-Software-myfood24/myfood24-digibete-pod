@@ -42,7 +42,7 @@
 		</data>
 		<key>MyFood24.bundle/Assets.car</key>
 		<data>
-		c/9C6CfqOCU2GS4YWOj/hza8hdg=
+		ZW+d1GZC854rfemszJC8a3MhdrU=
 		</data>
 		<key>MyFood24.bundle/Info.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		pPJT8fSbrjmnX1XwFM761WSxFko=
+		1W7Re2k7T7l7MTBsPa3kGRF62Ts=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -70,15 +70,15 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		wTbs8EhxyW+MQzaDyU0KxCQXnOM=
+		StAOB0yp+JZSqk22xqQh9dI2n58=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		gvCK+M1iAb0uQWwzLHrYf80xeZE=
+		PvZBWELTzwX2vEFX0wWtnRL2mGM=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		V5VVzJlU4bH5/vMII8wP1Jl/UrI=
+		Ft76qrCFNjlyitTMTgp+/rnbQ8U=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R+rxCF7DBsVsAbfG7VKCe2XC4lk2BFh29utSG/13UpU=
+			ylfz6SgmPy4qdikWpoHBkele1MOu+PSn+QoMFxalm/s=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/Info.plist</key>
@@ -178,7 +178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dLLyB9B8O68bhUwsUoM7UvZYJb54m+OPTTBOF90nH1I=
+			gP30ELeg19VUnsr7lX9OGGtvmVYhPcd0S+Pe6flNbp8=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
@@ -192,21 +192,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVw5HeB5Xp2Ueftu7jx2n8Omdz0tQilPBq/jtOc7TgU=
+			YUXkUPab+EE97gkk5hY9+utsRuL9CEJNd3uniS8eeiI=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rTD3flQfVUn75VPZOVZOenwyYrRGAgQiE075wx7OLAs=
+			1qjKi+B+sYftRLczIkja7sTa9/qEWZLVRzw2qYtHLD8=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			twgco+vOIPzOK+50oRJZ+9NAnbdnkk56sAFPzp1ivZI=
+			JcgGz9RcDlXxhRTAEYsIw8RwsBy8B/jNL1UTw1jDJmg=
 			</data>
 		</dict>
 	</dict>
