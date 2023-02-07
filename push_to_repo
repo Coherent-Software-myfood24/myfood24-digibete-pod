@@ -35,6 +35,10 @@ git push origin --tags
 pod repo push myfood24-framework-pod MyFood24.podspec --allow-warnings
 
 
+# Pull the latest tags
+git fetch
+git pull
+
 echo "============================================================================"
 echo "=                                                                          ="
 echo "=                  Finished Deploying Version: ${BASE_VERSION}.${BUILD_VERSION}                      ="
