@@ -33,3 +33,10 @@ git push origin --tags
 
 # Actually deploy the update
 pod repo push myfood24-framework-pod MyFood24.podspec --allow-warnings
+
+
+echo "============================================================================"
+echo "=                                                                          ="
+echo "=                  Finished Deploying Version: ${BASE_VERSION}.${BUILD_VERSION}                      ="
+echo "=                                                                          ="
+echo "============================================================================"
