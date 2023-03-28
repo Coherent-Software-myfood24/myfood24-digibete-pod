@@ -41,6 +41,12 @@ extension SwiftUI.View {
   public func roundedBorder<S>(_ content: S, width: CoreFoundation.CGFloat = 1, cornerRadius: CoreFoundation.CGFloat) -> some SwiftUI.View where S : SwiftUI.ShapeStyle
   
 }
+extension Combine.Published : Swift.Codable where Value : Swift.Decodable, Value : Swift.Encodable {
+  public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
+}
+extension Swift.String : Swift.Error {
+}
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MainVC : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func didReceiveMemoryWarning()

@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0r6/J/EQp62C+QoXNYHqPcrUY3o=
+		kjMNX+B6N2w5MRocmha4jV+4Eh4=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VHHAG8IBHCUyFXgCmdhrmsQLxf4=
+		ojHZfNFSilr8BY8uDyuTiwSC/0A=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VHHAG8IBHCUyFXgCmdhrmsQLxf4=
+		ojHZfNFSilr8BY8uDyuTiwSC/0A=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iHglUPDor04FKpBBv2AbPDB/yQs=
+		hQZb4F0rkLIcitfzYa+0Wtm+zKU=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0r6/J/EQp62C+QoXNYHqPcrUY3o=
+		kjMNX+B6N2w5MRocmha4jV+4Eh4=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Foc4BvSFW4YlZZL06hpwP7sLhew=
+		X9da0Y5m6AxYh38xIjl9b6gsXNI=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Foc4BvSFW4YlZZL06hpwP7sLhew=
+		X9da0Y5m6AxYh38xIjl9b6gsXNI=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aL/gK1pTQ7c/nq6+EaJoZuwdzAE=
+		4Gj2UA8I7HtMq6TjYo7rFc9WBL8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -132,14 +132,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AuFEuxP3ddIMxDmF6zrZylK2qFXw6AbacGks25ABQjU=
+			IOaTySOEKCCAU2s25nL1DKt/ecvNNTPOG8zqv6lA+dA=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qJnstw9iQzPzXuoLdOk/uvBXAiU3LzSMYoX+y5eBIss=
+			HgjWxn0V1Uj3+ckl2qv6C2iiu4jp9Nm/Pae4jpTG6Jk=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -153,28 +153,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qJnstw9iQzPzXuoLdOk/uvBXAiU3LzSMYoX+y5eBIss=
+			HgjWxn0V1Uj3+ckl2qv6C2iiu4jp9Nm/Pae4jpTG6Jk=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BQUTKXtuFgEhCBBvf2M9FhbnC+0PuzSkLK0PiYPi1sE=
+			6XuLSGirWIqdIe/iI/aaPvnDBADeCGjNA3xx3pp/8T4=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AuFEuxP3ddIMxDmF6zrZylK2qFXw6AbacGks25ABQjU=
+			IOaTySOEKCCAU2s25nL1DKt/ecvNNTPOG8zqv6lA+dA=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZElxpDHt9RQjJ4KFBCaAqbPnTHzWeA9SneP4+k7V704=
+			5Fvgv/g9uBu1pASpOkaqnz7Ug78i3dVPBghg2VdkYKc=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -188,14 +188,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZElxpDHt9RQjJ4KFBCaAqbPnTHzWeA9SneP4+k7V704=
+			5Fvgv/g9uBu1pASpOkaqnz7Ug78i3dVPBghg2VdkYKc=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dRueUT0wpOSlY5NCwWtyTgqmpiCWD7kaOEb3ng1uYgA=
+			Pda6nRL57UKf6Vsa/ytE5EC5G4PAuNbDF2ehdcRwcP8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
