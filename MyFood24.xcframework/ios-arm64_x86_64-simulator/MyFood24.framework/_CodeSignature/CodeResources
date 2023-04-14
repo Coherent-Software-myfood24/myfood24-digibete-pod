@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TDmdMk4jFWtPspGYsg0e/IZQ7HU=
+		9/kSoLQ89jh7xdBIYZX34x9GIBM=
 		</data>
 		<key>Headers/MyFood24-Swift.h</key>
 		<data>
-		EYuywy8wgEdyXTJUPMDhAKHNzxQ=
+		I1+aUmdYid7xJhvRWxDDlIMjcig=
 		</data>
 		<key>Headers/MyFood24-umbrella.h</key>
 		<data>
@@ -18,47 +18,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mQQNhezIJv6h10tDY3JuFy/Rlfo=
+		9yu2Z0dAWJQL3ZlwqmnpsKTSQS0=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kjMNX+B6N2w5MRocmha4jV+4Eh4=
+		0W+V5BldydRD3vHvrTv9UXzhM9s=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ojHZfNFSilr8BY8uDyuTiwSC/0A=
+		WUxFVB+OxrxwEtbEWnHYQawURfs=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZjOlRvXvgseAolG2IN71n46A+f0=
+		FtO1fSdgar8slrZXDsePwlzZ1Gc=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ojHZfNFSilr8BY8uDyuTiwSC/0A=
+		WUxFVB+OxrxwEtbEWnHYQawURfs=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hQZb4F0rkLIcitfzYa+0Wtm+zKU=
+		VF0J7WCBLqnEuXPBD4LYw8voU8g=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kjMNX+B6N2w5MRocmha4jV+4Eh4=
+		0W+V5BldydRD3vHvrTv9UXzhM9s=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		X9da0Y5m6AxYh38xIjl9b6gsXNI=
+		qxv3hyWCFHxUfsAUmzNGHs1cOPI=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eK+tAZeoRIytFPFfeKoqe0cYuz0=
+		69bmo38lmQhOEZqKRobQgtbdOlM=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		X9da0Y5m6AxYh38xIjl9b6gsXNI=
+		qxv3hyWCFHxUfsAUmzNGHs1cOPI=
 		</data>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4Gj2UA8I7HtMq6TjYo7rFc9WBL8=
+		uCZ2adGFDNctNg8iDYBAYqwIFBw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>MyFood24.bundle/Assets.car</key>
 		<data>
-		TDmdMk4jFWtPspGYsg0e/IZQ7HU=
+		XNPAdy69XGvAqubm7s5b1FCU3uk=
 		</data>
 		<key>MyFood24.bundle/Info.plist</key>
 		<data>
-		o4koWAEnozUe5buvb7vVQaXs53I=
+		g5RQNVZQcgAyzQjUnXzj4moC2Mk=
 		</data>
 		<key>MyFood24.bundle/Main.storyboardc/Info.plist</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		1TvumiDy+wRz+D7jSkj6TCVgTkc=
+		3e7F92pNoyp5u2EQ48CWviwpmLM=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		+q1zL7RVVm0mjg73laz3esYGpgE=
+		JDIDUO4P13JlIhKYVstImAdUY5I=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		TmT7S/L9KJEB1Wjy7m6MuR5hDO0=
+		6nRk23YG/HK7MBW97fkbGsxVxOI=
 		</data>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ocL0ch61GVoSrBNKsw1i62mXpF7Ddm1KNJ90z/+e1RU=
+			2U24I3yP+8aRCQu2tnFPoA3VRxlwxgVMkzB5eBnGcMs=
 			</data>
 		</dict>
 		<key>Headers/MyFood24-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aGFetLgiNofumnL9pfx6GnDyRLWdqrb7IPxb0rPpHZI=
+			YLxljUtZdrBxfkwWU7o2O5Tj6eohU5hOdKgJAfXOED0=
 			</data>
 		</dict>
 		<key>Headers/MyFood24-umbrella.h</key>
@@ -132,70 +132,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOaTySOEKCCAU2s25nL1DKt/ecvNNTPOG8zqv6lA+dA=
+			aagg0+ByWLoeq1M5KWzy1nXrRlCSjFrQcSk6CCr0lnM=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HgjWxn0V1Uj3+ckl2qv6C2iiu4jp9Nm/Pae4jpTG6Jk=
+			JlEhB6y+TjbstjIrR1Bon7qeaps8XIzeDepJB4HKLRU=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L2IUB7qWBFly/RZw0wdTto47w/KcKdvztERoRdb89Cw=
+			usgwFz0GnDY+Kr3d/aqIVYAOb1Y4bChHz7+r6CboK5Q=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HgjWxn0V1Uj3+ckl2qv6C2iiu4jp9Nm/Pae4jpTG6Jk=
+			JlEhB6y+TjbstjIrR1Bon7qeaps8XIzeDepJB4HKLRU=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6XuLSGirWIqdIe/iI/aaPvnDBADeCGjNA3xx3pp/8T4=
+			ArRMlQt05ODiRsIDZI+uNJZGquchh/125N+5G9T9W4Y=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOaTySOEKCCAU2s25nL1DKt/ecvNNTPOG8zqv6lA+dA=
+			aagg0+ByWLoeq1M5KWzy1nXrRlCSjFrQcSk6CCr0lnM=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Fvgv/g9uBu1pASpOkaqnz7Ug78i3dVPBghg2VdkYKc=
+			5antAci00Y1zBqxR+YcwyA7yeDQqxS593gCYttJgrQw=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			whs8NOAGtEflmVL3qy3uiHM+ujCox5IdT2rX+0KtoXA=
+			pExoGNAwThs/X/rWT7+RDBWrAopNB6Obm512h2sMBxg=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Fvgv/g9uBu1pASpOkaqnz7Ug78i3dVPBghg2VdkYKc=
+			5antAci00Y1zBqxR+YcwyA7yeDQqxS593gCYttJgrQw=
 			</data>
 		</dict>
 		<key>Modules/MyFood24.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pda6nRL57UKf6Vsa/ytE5EC5G4PAuNbDF2ehdcRwcP8=
+			oq1pTreZDw2GwGGFdUuPQgjarGkUqG4tfYQDtfvrxjU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -209,14 +209,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ocL0ch61GVoSrBNKsw1i62mXpF7Ddm1KNJ90z/+e1RU=
+			gXkQgxmlxUFp85whmdd4FKMb5kLetolgojltsDHqIjY=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zJb5mrI43/uAyqqhwZW5hZVhRRWGciClL67aYzin+7Q=
+			+Hy60n6enABlabQaXLJuAksQg7hvkw3+S59kaMnNZCs=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/Main.storyboardc/Info.plist</key>
@@ -244,7 +244,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fx4doR0J8GbRsO57xGzXFGbVbVUaa/fzjBM1F73WiNs=
+			fjmOqKo4XWx2Ae+3nIY8n6yafmWCENJod1WrLT9GCM8=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeRequirements</key>
@@ -258,14 +258,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SmVyRNcLQyvs03rWxEsDgi43YLcfqmeK1Ah7ZLGXd9U=
+			remX17HPv/VpOL2E8AR3k3xGgcKIe0wQDR72Darnz8g=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QhXTAHqH5gZKD4+3qswIBRaTKIFh0viUUybZ2e1muC8=
+			XohcBZGmRdMG/LyBENt4RibUeRoC29nPAR35yeuUdAc=
 			</data>
 		</dict>
 		<key>MyFood24.bundle/_CodeSignature/CodeSignature</key>
