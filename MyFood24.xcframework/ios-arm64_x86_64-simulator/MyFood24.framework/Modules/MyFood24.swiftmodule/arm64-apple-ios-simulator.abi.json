@@ -2962,434 +2962,434 @@
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5684,
+      "offset": 5521,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5839,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "Array",
-      "offset": 6017,
+      "offset": 6172,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6112,
+      "offset": 6267,
       "length": 14,
       "value": "\"amount_value\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6141,
+      "offset": 6296,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6181,
+      "offset": 6336,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6200,
+      "offset": 6355,
       "length": 13,
       "value": "\"amount_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6346,
+      "offset": 6501,
       "length": 37,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6358,
+      "offset": 6513,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6368,
+      "offset": 6523,
       "length": 1,
       "value": "\"\/get_nutrients\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6594,
+      "offset": 6749,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "Array",
-      "offset": 6832,
+      "offset": 6987,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6876,
+      "offset": 7031,
       "length": 16,
       "value": "\"macronutrients\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "Array",
-      "offset": 6903,
+      "offset": 7058,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6915,
+      "offset": 7070,
       "length": 16,
       "value": "\"micronutrients\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "Array",
-      "offset": 6942,
+      "offset": 7097,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6974,
+      "offset": 7129,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6997,
+      "offset": 7152,
       "length": 10,
       "value": "\"nutrient\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7009,
+      "offset": 7164,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7028,
+      "offset": 7183,
       "length": 10,
       "value": "\"Calories\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7066,
+      "offset": 7221,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7124,
+      "offset": 7279,
       "length": 10,
       "value": "\"nutrient\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7136,
+      "offset": 7291,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7155,
+      "offset": 7310,
       "length": 15,
       "value": "\"Carbohydrates\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7258,
+      "offset": 7413,
       "length": 10,
       "value": "\"nutrient\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7270,
+      "offset": 7425,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7319,
+      "offset": 7474,
       "length": 8,
       "value": "\"amount\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7329,
+      "offset": 7484,
       "length": 7,
       "value": "\"units\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7380,
+      "offset": 7535,
       "length": 8,
       "value": "\"amount\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7390,
+      "offset": 7545,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7603,
+      "offset": 7758,
       "length": 10,
       "value": "\"nutrient\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7615,
+      "offset": 7770,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7668,
+      "offset": 7823,
       "length": 8,
       "value": "\"amount\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7678,
+      "offset": 7833,
       "length": 7,
       "value": "\"units\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7733,
+      "offset": 7888,
       "length": 8,
       "value": "\"amount\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7743,
+      "offset": 7898,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8091,
+      "offset": 8246,
       "length": 10,
       "value": "\"Add Item\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8401,
+      "offset": 8556,
       "length": 15,
       "value": "\"Carbohydrates\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8551,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8673,
+      "offset": 8801,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8784,
+      "offset": 8912,
       "length": 4,
       "value": "\".0\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8796,
+      "offset": 8924,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9050,
+      "offset": 9178,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11979,
+      "offset": 12140,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12169,
+      "offset": 12330,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12242,
+      "offset": 12403,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12461,
+      "offset": 12622,
       "length": 64,
       "value": "\"Add to \""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12502,
+      "offset": 12663,
       "length": 6,
       "value": "\"meal\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12511,
+      "offset": 12672,
       "length": 12,
       "value": "\"calculator\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12524,
+      "offset": 12685,
       "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12606,
+      "offset": 12767,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12807,
+      "offset": 12968,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12933,
+      "offset": 13094,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12997,
+      "offset": 13158,
       "length": 19,
       "value": "\"Search more foods\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13097,
+      "offset": 13258,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13298,
+      "offset": 13459,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13341,
+      "offset": 13502,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 14106,
+      "offset": 14267,
       "length": 8,
       "value": "\"Update\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14195,
+      "offset": 14356,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14396,
+      "offset": 14557,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 15273,
+      "offset": 15434,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 16942,
+      "offset": 17103,
       "length": 9,
       "value": "\"Add New\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/AddToCalcPreviewUIView.swift",
       "kind": "StringLiteral",
-      "offset": 17040,
+      "offset": 17201,
       "length": 6,
       "value": "\"Edit\""
     },
@@ -3697,168 +3697,168 @@
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4912,
+      "offset": 4940,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6725,
+      "offset": 6248,
       "length": 83,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6789,
+      "offset": 6312,
       "length": 4,
       "value": "\".0\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6801,
+      "offset": 6324,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 6805,
+      "offset": 6328,
       "length": 1,
       "value": "\" g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6826,
+      "offset": 6349,
       "length": 3,
       "value": "170"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6832,
+      "offset": 6355,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7119,
+      "offset": 6642,
       "length": 14,
       "value": "\"xmark.circle\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7236,
+      "offset": 6759,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7377,
+      "offset": 6900,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7432,
+      "offset": 6955,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7728,
+      "offset": 7251,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7769,
+      "offset": 7292,
       "length": 7,
       "value": "\"Total\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7921,
+      "offset": 7444,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7941,
+      "offset": 7464,
       "length": 1,
       "value": "\" g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7969,
+      "offset": 7492,
       "length": 3,
       "value": "170"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8608,
+      "offset": 8187,
       "length": 19,
       "value": "\"Search more foods\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8708,
+      "offset": 8287,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8909,
+      "offset": 8488,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9583,
+      "offset": 9179,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9642,
+      "offset": 9238,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10031,
+      "offset": 9627,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10061,
+      "offset": 9657,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/CarbCounterUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10582,
+      "offset": 10178,
       "length": 14,
       "value": "\"Will dismiss\""
     },
@@ -4642,539 +4642,546 @@
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8874,
+      "offset": 8782,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9063,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9019,
+      "offset": 9208,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9162,
+      "offset": 9351,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 9288,
+      "offset": 9477,
       "length": 28,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 9313,
+      "offset": 9502,
       "length": 1,
       "value": "\" g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9351,
+      "offset": 9540,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9543,
+      "offset": 9732,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9835,
+      "offset": 10024,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10205,
+      "offset": 10394,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10242,
+      "offset": 10431,
       "length": 10,
       "value": "\"Quantity\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10292,
+      "offset": 10481,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10349,
+      "offset": 10538,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10508,
+      "offset": 10697,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10549,
+      "offset": 10738,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10657,
+      "offset": 10846,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10669,
+      "offset": 10858,
       "length": 139,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10710,
+      "offset": 10899,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10767,
+      "offset": 10956,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11019,
+      "offset": 11208,
       "length": 23,
       "value": "\"Total \""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11041,
+      "offset": 11230,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11056,
+      "offset": 11245,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11077,
+      "offset": 11266,
       "length": 1,
       "value": "\" g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11160,
+      "offset": 11349,
       "length": 13,
       "value": "\"Ingredients\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11187,
+      "offset": 11376,
       "length": 12,
       "value": "\"Weight (g)\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11208,
+      "offset": 11397,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11287,
+      "offset": 11476,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11456,
+      "offset": 11645,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11501,
+      "offset": 11690,
       "length": 110,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11531,
+      "offset": 11720,
       "length": 1,
       "value": "\"\n(\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11550,
+      "offset": 11739,
       "length": 1,
       "value": "\" X \""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11568,
+      "offset": 11757,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11603,
+      "offset": 11792,
       "length": 2,
       "value": "10"
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
-      "kind": "StringLiteral",
-      "offset": 11607,
-      "length": 1,
-      "value": "\" g)\""
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
-      "kind": "StringLiteral",
-      "offset": 11758,
-      "length": 41,
-      "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
       "offset": 11796,
       "length": 1,
+      "value": "\" g)\""
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
+      "kind": "StringLiteral",
+      "offset": 11947,
+      "length": 41,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
+      "kind": "StringLiteral",
+      "offset": 11985,
+      "length": 1,
       "value": "\" g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11833,
+      "offset": 12022,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11839,
+      "offset": 12028,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11912,
+      "offset": 12101,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11917,
+      "offset": 12106,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12335,
+      "offset": 12524,
       "length": 14,
       "value": "\"xmark.circle\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12452,
+      "offset": 12641,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12623,
+      "offset": 12812,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12674,
+      "offset": 12863,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12809,
+      "offset": 12998,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12850,
+      "offset": 13039,
       "length": 7,
       "value": "\"Total\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12954,
+      "offset": 13143,
       "length": 72,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13007,
+      "offset": 13196,
       "length": 4,
       "value": "\".0\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13019,
+      "offset": 13208,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13023,
+      "offset": 13212,
       "length": 1,
       "value": "\" g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13134,
+      "offset": 13323,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13181,
+      "offset": 13370,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13614,
+      "offset": 13803,
       "length": 6,
       "value": "\"Edit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13623,
+      "offset": 13812,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13967,
+      "offset": 14156,
       "length": 20,
       "value": "\"Search Ingredients\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 14152,
+      "offset": 14341,
       "length": 17,
       "value": "\"Add Ingredients\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14232,
+      "offset": 14421,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14465,
+      "offset": 14654,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14576,
+      "offset": 14765,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15159,
+      "offset": 15348,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "Array",
-      "offset": 15727,
+      "offset": 15916,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 16038,
+      "offset": 16227,
       "length": 11,
       "value": "\"Save Meal\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16112,
+      "offset": 16301,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16345,
+      "offset": 16534,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 17069,
+      "offset": 17258,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 17144,
+      "offset": 17333,
       "length": 19,
       "value": "\"Add to Calculator\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17230,
+      "offset": 17419,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17479,
+      "offset": 17668,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 18022,
+      "offset": 18211,
       "length": 8,
       "value": "\"Update\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18097,
+      "offset": 18286,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18346,
+      "offset": 18535,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18612,
+      "offset": 18801,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18676,
+      "offset": 18865,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "Array",
-      "offset": 18880,
+      "offset": 19069,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 19305,
+      "offset": 19494,
       "length": 12,
       "value": "\"New Recipe\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 19381,
+      "offset": 19570,
       "length": 6,
       "value": "\"Edit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 19453,
+      "offset": 19642,
       "length": 15,
       "value": "\"Search Select\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/CreateRecipeUIView.swift",
       "kind": "StringLiteral",
-      "offset": 19532,
+      "offset": 19721,
       "length": 17,
       "value": "\"Counter Preview\""
     },
@@ -5280,363 +5287,349 @@
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
       "offset": 594,
-      "length": 21,
-      "value": "\"Kellog's Cornflakes\""
+      "length": 65,
+      "value": "\"Kellog's Cornflakes with some additional text for spacing tests\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 621,
+      "offset": 665,
       "length": 6,
       "value": "999999"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 636,
+      "offset": 680,
       "length": 10,
       "value": "\"Kellog's\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "BooleanLiteral",
-      "offset": 659,
+      "offset": 703,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 724,
+      "offset": 768,
       "length": 22,
       "value": "\"Cadbury's Mini Rolls\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 752,
+      "offset": 796,
       "length": 6,
       "value": "999999"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 767,
+      "offset": 811,
       "length": 10,
       "value": "\"Kellog's\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "BooleanLiteral",
-      "offset": 790,
+      "offset": 834,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 871,
+      "offset": 915,
       "length": 15,
       "value": "\"Carbohydrates\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 894,
+      "offset": 938,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "FloatLiteral",
-      "offset": 910,
+      "offset": 954,
       "length": 4,
       "value": "12.9"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 920,
+      "offset": 964,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 988,
+      "offset": 1032,
       "length": 10,
       "value": "\"Calories\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1006,
+      "offset": 1050,
       "length": 10,
       "value": "\"calories\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1025,
+      "offset": 1069,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1033,
+      "offset": 1077,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1100,
+      "offset": 1144,
       "length": 9,
       "value": "\"Protein\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1117,
+      "offset": 1161,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "FloatLiteral",
-      "offset": 1133,
+      "offset": 1177,
       "length": 3,
       "value": "1.7"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1141,
+      "offset": 1185,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1204,
+      "offset": 1248,
       "length": 5,
       "value": "\"Fat\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1217,
+      "offset": 1261,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "FloatLiteral",
-      "offset": 1233,
+      "offset": 1277,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1241,
+      "offset": 1285,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1307,
+      "offset": 1351,
       "length": 15,
       "value": "\"Saturated Fat\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1330,
+      "offset": 1374,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1346,
+      "offset": 1390,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1352,
+      "offset": 1396,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1423,
+      "offset": 1467,
       "length": 14,
       "value": "\"Total Sugars\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1445,
+      "offset": 1489,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "FloatLiteral",
-      "offset": 1461,
+      "offset": 1505,
       "length": 3,
       "value": "1.9"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1469,
+      "offset": 1513,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1533,
+      "offset": 1577,
       "length": 6,
       "value": "\"Salt\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1547,
+      "offset": 1591,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "FloatLiteral",
-      "offset": 1563,
+      "offset": 1607,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1571,
+      "offset": 1615,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1636,
+      "offset": 1680,
       "length": 14,
       "value": "\"Fibre (AOAC)\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 1658,
+      "offset": 1702,
       "length": 7,
       "value": "\"grams\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "FloatLiteral",
-      "offset": 1674,
+      "offset": 1718,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 1682,
+      "offset": 1726,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2070,
+      "offset": 2114,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2143,
+      "offset": 2187,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2262,
+      "offset": 2306,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2336,
+      "offset": 2380,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 2535,
+      "offset": 2579,
       "length": 14,
       "value": "\"Cheeseburger\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2555,
+      "offset": 2599,
       "length": 3,
       "value": "123"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2594,
+      "offset": 2638,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "StringLiteral",
-      "offset": 2647,
-      "length": 15,
-      "value": "\"Half A Burger\""
+      "offset": 2691,
+      "length": 60,
+      "value": "\"Half A Burger  with some additional text for spacing tests\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2668,
+      "offset": 2757,
       "length": 3,
       "value": "123"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2707,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2756,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2797,
+      "offset": 2796,
       "length": 1,
       "value": "2"
     },
@@ -5645,12 +5638,26 @@
       "kind": "IntegerLiteral",
       "offset": 2845,
       "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2886,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2934,
+      "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ExampleItems.swift",
       "kind": "IntegerLiteral",
-      "offset": 2887,
+      "offset": 2976,
       "length": 1,
       "value": "1"
     },
@@ -7302,212 +7309,247 @@
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 419,
+      "offset": 420,
       "length": 4,
       "value": "0.05"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 699,
+      "offset": 700,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 713,
+      "offset": 714,
       "length": 5,
       "value": "99999"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 995,
+      "offset": 997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1240,
-      "length": 1,
-      "value": "1"
+      "kind": "StringLiteral",
+      "offset": 1198,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1335,
+      "offset": 1325,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 1896,
+      "offset": 1391,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1513,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
+      "kind": "StringLiteral",
+      "offset": 2084,
       "length": 19,
       "value": "\"minus.circle.fill\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1987,
+      "offset": 2175,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 2057,
+      "offset": 2245,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2115,
+      "offset": 2303,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2280,
+      "offset": 2468,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 2387,
+      "offset": 2575,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 2512,
+      "offset": 2688,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
+      "kind": "StringLiteral",
+      "offset": 2879,
       "length": 12,
       "value": "\"0123456789\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 2626,
+      "offset": 2992,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 3029,
+      "offset": 3395,
       "length": 7,
       "value": "\"arial\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3044,
+      "offset": 3410,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 3646,
+      "offset": 4012,
       "length": 18,
       "value": "\"plus.circle.fill\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3737,
+      "offset": 4103,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 3807,
+      "offset": 4173,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3866,
+      "offset": 4232,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4033,
+      "offset": 4399,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4191,
+      "offset": 4557,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4204,
+      "offset": 4570,
       "length": 2,
       "value": "35"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4277,
+      "offset": 4643,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4546,
+      "offset": 4912,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4558,
+      "offset": 4924,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 4661,
+      "offset": 5027,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4709,
+      "offset": 5075,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 4726,
+      "offset": 5092,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
       "kind": "StringLiteral",
-      "offset": 5100,
-      "length": 7,
-      "value": "\"99999\""
+      "offset": 5466,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5677,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/NumberStepperUIView.swift",
+      "kind": "StringLiteral",
+      "offset": 5715,
+      "length": 11,
+      "value": "\"new val: \""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/Search\/Recipe\/RecipeSearchUIView.swift",
@@ -8128,588 +8170,588 @@
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7631,
+      "offset": 7652,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7725,
+      "offset": 7746,
       "length": 28,
       "value": "\"\/food_portion_images\/\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 7752,
+      "offset": 7773,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8096,
+      "offset": 8117,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8393,
+      "offset": 8414,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8732,
+      "offset": 8753,
       "length": 64,
       "value": "\"\/food_portion_images\/\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 8759,
+      "offset": 8780,
       "length": 1,
       "value": "\"?width=200&height=200&type=thumbnail\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9135,
+      "offset": 9156,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9646,
+      "offset": 9667,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 9709,
+      "offset": 9730,
       "length": 7,
       "value": "\"xmark\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9825,
+      "offset": 9846,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9837,
+      "offset": 9858,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "FloatLiteral",
-      "offset": 9954,
+      "offset": 9975,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10479,
+      "offset": 10500,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10491,
+      "offset": 10512,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10510,
+      "offset": 10531,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "Array",
-      "offset": 10579,
+      "offset": 10600,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "Array",
-      "offset": 10612,
+      "offset": 10633,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "Array",
-      "offset": 10643,
+      "offset": 10664,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 10853,
+      "offset": 10874,
       "length": 46,
       "value": "\"Unable to connect to server, try again later\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10986,
+      "offset": 11007,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11014,
+      "offset": 11035,
       "length": 20,
       "value": "\"Error loading data\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11170,
+      "offset": 11191,
       "length": 10,
       "value": "\"portions\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11324,
+      "offset": 11345,
       "length": 11,
       "value": "\"order_num\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11374,
+      "offset": 11395,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11418,
+      "offset": 11439,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11463,
+      "offset": 11484,
       "length": 6,
       "value": "\"unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11524,
+      "offset": 11545,
       "length": 17,
       "value": "\"database_import\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11582,
+      "offset": 11603,
       "length": 6,
       "value": "\"size\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11635,
+      "offset": 11656,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11702,
+      "offset": 11723,
       "length": 12,
       "value": "\"image_name\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11765,
+      "offset": 11786,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11893,
+      "offset": 11914,
       "length": 18,
       "value": "\"convertible_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11913,
+      "offset": 11934,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11970,
+      "offset": 11991,
       "length": 18,
       "value": "\"convertible_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 11990,
+      "offset": 12011,
       "length": 9,
       "value": "\"is_base\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12042,
+      "offset": 12063,
       "length": 18,
       "value": "\"convertible_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12062,
+      "offset": 12083,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12130,
+      "offset": 12151,
       "length": 18,
       "value": "\"convertible_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12150,
+      "offset": 12171,
       "length": 25,
       "value": "\"to_base_conversion_rate\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12220,
+      "offset": 12241,
       "length": 18,
       "value": "\"convertible_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12240,
+      "offset": 12261,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12294,
+      "offset": 12315,
       "length": 18,
       "value": "\"convertible_unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12314,
+      "offset": 12335,
       "length": 6,
       "value": "\"unit\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 12415,
+      "offset": 12436,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12669,
+      "offset": 12690,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12701,
+      "offset": 12722,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12746,
+      "offset": 12768,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13143,
+      "offset": 13165,
       "length": 21,
       "value": "\"Select your portion\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13412,
+      "offset": 13434,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 13489,
+      "offset": 13511,
       "length": 14,
       "value": "\"chevron.left\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13598,
+      "offset": 13620,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13619,
+      "offset": 13641,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13760,
+      "offset": 13782,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13901,
+      "offset": 13923,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14078,
+      "offset": 14100,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 14475,
+      "offset": 14497,
       "length": 36,
       "value": "\"Double tap an image to enlarge it.\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14856,
+      "offset": 14878,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14902,
+      "offset": 14924,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14937,
+      "offset": 14959,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 14948,
+      "offset": 14970,
       "length": 3,
       "value": "\"g\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15047,
+      "offset": 15069,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15191,
+      "offset": 15213,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15682,
+      "offset": 15704,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15722,
+      "offset": 15744,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16163,
+      "offset": 16185,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16285,
+      "offset": 16307,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16762,
+      "offset": 16784,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 17801,
+      "offset": 17823,
       "length": 16,
       "value": "\"Select Portion\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18249,
+      "offset": 18271,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18450,
+      "offset": 18472,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18539,
+      "offset": 18561,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18756,
+      "offset": 18778,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 19295,
+      "offset": 19317,
       "length": 16,
       "value": "\"Select Portion\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 19745,
+      "offset": 19767,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19917,
+      "offset": 19939,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20010,
+      "offset": 20032,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20243,
+      "offset": 20265,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 20362,
+      "offset": 20384,
       "length": 16,
       "value": "\"Select Portion\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20437,
+      "offset": 20459,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20654,
+      "offset": 20676,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 20852,
+      "offset": 20874,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 21270,
+      "offset": 21292,
       "length": 8,
       "value": "\"Images\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/SelectPortionUIView.swift",
       "kind": "StringLiteral",
-      "offset": 21379,
+      "offset": 21401,
       "length": 14,
       "value": "\"Descriptions\""
     },
@@ -8926,14 +8968,14 @@
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ViewContainerUIView.swift",
       "kind": "StringLiteral",
-      "offset": 3946,
+      "offset": 4019,
       "length": 13,
       "value": "\"Hello world\""
     },
     {
       "filePath": "\/Users\/matthewrussell\/Development\/Gitlab\/Coherent\/MyFood24-Libary-iOS\/MyFood24\/MyFood24\/Classes\/ViewContainerUIView.swift",
       "kind": "StringLiteral",
-      "offset": 3980,
+      "offset": 4053,
       "length": 6,
       "value": "\"Test\""
     },
