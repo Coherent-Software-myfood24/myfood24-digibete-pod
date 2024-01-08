@@ -320,8 +320,6 @@ SWIFT_CLASS("_TtC8MyFood2418MainViewController")
 @end
 
 
-
-
 @class UIColor;
 
 @interface UIView (SWIFT_EXTENSION(MyFood24))
@@ -656,8 +654,6 @@ SWIFT_CLASS("_TtC8MyFood2418MainViewController")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
-
-
 
 
 @class UIColor;

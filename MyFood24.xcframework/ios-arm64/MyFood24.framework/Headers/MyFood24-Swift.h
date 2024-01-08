@@ -320,8 +320,6 @@ SWIFT_CLASS("_TtC8MyFood2418MainViewController")
 @end
 
 
-
-
 @class UIColor;
 
 @interface UIView (SWIFT_EXTENSION(MyFood24))
